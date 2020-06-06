@@ -1,2 +1,2 @@
-# OpenLMS-CoursesAPI
-Open LMS Courses API
+# FreeLMS API
+FreeLMS API
